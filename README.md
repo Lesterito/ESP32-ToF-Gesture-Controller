@@ -40,6 +40,7 @@ This project wouldn't be possible without these fantastic tools and libraries:
 * ToF sensor integration via [SparkFun VL53L5CX Library](https://github.com/sparkfun/SparkFun_VL53L5CX_Arduino_Library).
 * BLE HID functionality powered by [ESP32 BLE Keyboard](https://github.com/T-vK/ESP32-BLE-Keyboard) by T-vK.
 * System Architecture & Hybrid Logic implemented by Dominik Majchrowicz.
+* Electronics & Hardware Integration by [Bartosz Kozielec](https://github.com/BKozielec).
 
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
